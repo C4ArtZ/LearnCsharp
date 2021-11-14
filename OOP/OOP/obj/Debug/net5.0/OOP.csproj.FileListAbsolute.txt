@@ -1,0 +1,16 @@
+C:\Users\Chris\Documents\Repos\LearnCsharp\OOP\OOP\bin\Debug\net5.0\OOP.exe
+C:\Users\Chris\Documents\Repos\LearnCsharp\OOP\OOP\bin\Debug\net5.0\OOP.deps.json
+C:\Users\Chris\Documents\Repos\LearnCsharp\OOP\OOP\bin\Debug\net5.0\OOP.runtimeconfig.json
+C:\Users\Chris\Documents\Repos\LearnCsharp\OOP\OOP\bin\Debug\net5.0\OOP.runtimeconfig.dev.json
+C:\Users\Chris\Documents\Repos\LearnCsharp\OOP\OOP\bin\Debug\net5.0\OOP.dll
+C:\Users\Chris\Documents\Repos\LearnCsharp\OOP\OOP\bin\Debug\net5.0\ref\OOP.dll
+C:\Users\Chris\Documents\Repos\LearnCsharp\OOP\OOP\bin\Debug\net5.0\OOP.pdb
+C:\Users\Chris\Documents\Repos\LearnCsharp\OOP\OOP\obj\Debug\net5.0\OOP.csproj.AssemblyReference.cache
+C:\Users\Chris\Documents\Repos\LearnCsharp\OOP\OOP\obj\Debug\net5.0\OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chris\Documents\Repos\LearnCsharp\OOP\OOP\obj\Debug\net5.0\OOP.AssemblyInfoInputs.cache
+C:\Users\Chris\Documents\Repos\LearnCsharp\OOP\OOP\obj\Debug\net5.0\OOP.AssemblyInfo.cs
+C:\Users\Chris\Documents\Repos\LearnCsharp\OOP\OOP\obj\Debug\net5.0\OOP.csproj.CoreCompileInputs.cache
+C:\Users\Chris\Documents\Repos\LearnCsharp\OOP\OOP\obj\Debug\net5.0\OOP.dll
+C:\Users\Chris\Documents\Repos\LearnCsharp\OOP\OOP\obj\Debug\net5.0\ref\OOP.dll
+C:\Users\Chris\Documents\Repos\LearnCsharp\OOP\OOP\obj\Debug\net5.0\OOP.pdb
+C:\Users\Chris\Documents\Repos\LearnCsharp\OOP\OOP\obj\Debug\net5.0\OOP.genruntimeconfig.cache
